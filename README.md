@@ -23,7 +23,13 @@ const sergio = {
 }
 ```
 Technologies:
-<div><div/>
+<div>
+  <img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" width="120">
+  <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60">
+  <img src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="60">
+ 
+ <div/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
