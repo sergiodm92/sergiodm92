@@ -10,7 +10,7 @@ A little more about me...
 
 ```javascript
 const sergio = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, SASS, Jest, Docker],
   developments: { foodApp: ""
