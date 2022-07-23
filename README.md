@@ -27,7 +27,12 @@ Technologies:
   <img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" width="120">
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60">
   <img src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="70">
+  <img src="https://midu.dev/images/tags/node.png" width="70">
+  <img src="https://img2.freepng.es/20180711/yfe/kisspng-express-js-node-js-javascript-mongodb-node-js-5b461d28173fc6.1251392115313216400952.jpg" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/300px-Postgresql_elephant.svg.png" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="60">
+  <img src="https://static.cdnlogo.com/logos/r/37/redux.svg" width="70">
  
  <div/>
 
