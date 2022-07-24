@@ -11,17 +11,23 @@ A little more about me...
 ```javascript
 const sergio = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, SASS, Jest, Docker],
-  developments: { foodApp: ""
-                  pokemonApp:""
-                  serviExpress:""
-                  porfolio: ""
+  code: [Javascript,C++, HTML, CSS],
+  tools: [React, Redux, Node, Express, Styled-Components, SASS, BootStrap, MaterialUI, Jest, Docker],
+  developments: {  appFood: "It's an   aplication where you can search food recipes, sort by name or filter by diet, 
+                             and you can create your recipe and save in the data base",
+                   appPokemons: "It's an aplication where you can see the different pokemons with its detail, search, sort and create any pokemons",
+                   serviExpress: "It's a e-commerce page, where you can search, require or post services for example Digital Marketing, Programming, 
+                                  Electricity, Plumbing and so on. You can pay the service and chat with the seller about that your service requirements, 
+                                  if you have a problem you can chat with Customer Support, among other functions."
+                   porfolio: "It's a customer porfolio where you find my CV, skills, projects and contact."      
+                }
+}
 }
 ```
 Technologies:
 <div>
   <img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60"> 
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60">
   <img src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="70">
