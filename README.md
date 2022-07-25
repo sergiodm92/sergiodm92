@@ -2,8 +2,8 @@
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="150"
  
 <div>
-<p> <a href="http://www.unb.br">Civil Enginner at National University of Salta</a></p>
-<p><em>Full Developer Web Stack at <a href="http://www.unb.br">Soy Henry</a></br> 
+<p><em>Civil Enginner at <a href="http://www.unsa.edu.ar"> National University of Salta</a></br></em></p>
+<p><em>Full Developer Web Stack at <a href="https://www.soyhenry.com">Soy Henry</a></br> 
 </em></p>
 
 <div/>
