@@ -1,9 +1,12 @@
-<h2> Hi, I'm David Sergio! <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="100"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="250" 
+<h2> Hi, I'm David Sergio! <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="60"></h2>
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="150"
+ 
+<div>
 <p> <a href="http://www.unb.br">Civil Enginner at National University of Salta</a></p>
 <p><em>Full Developer Web Stack at <a href="http://www.unb.br">Soy Henry</a></br> 
 </em></p>
 
+<div/>
 
 
 A little more about me...  
@@ -52,11 +55,7 @@ const sergio = {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
 <h3> 🤝🏻 Connect with Me </h3>
-
 <br>
-
-
-
 <p align="center">
 
 <a href="https://shivammalpani.netlify.app/"></a>
