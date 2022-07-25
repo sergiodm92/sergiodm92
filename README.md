@@ -39,14 +39,16 @@ const sergio = {
   <img src="https://static.cdnlogo.com/logos/r/37/redux.svg" width="70">
  
  <div/>
-
+  
+---------------
+  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
+---------------
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodm92&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodm92&theme=onedark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
 <h3> 🤝🏻 Connect with Me </h3>
@@ -59,12 +61,11 @@ const sergio = {
 
 <a href="https://shivammalpani.netlify.app/"></a>
 
-<a href="https://www.linkedin.com/in/sergio-andres-david-maioli-196812176"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png" width="60"></a>
+<a href="https://www.linkedin.com/in/sergio-andres-david-maioli-196812176" aling="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png" width="60"></a>
 
 <a href="https://www.instagram.com/i__disbalance/"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"></a>
-
+<a href="mailto:crgiodm@gmail.com" ><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30"></a>
 </p>
 
 
