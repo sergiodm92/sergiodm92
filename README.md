@@ -1,5 +1,5 @@
 <h2> Hi, I'm David Sergio! <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="60"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="150"
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="140"
  
 <div>
 <p><em>Civil Enginner at <a href="http://www.unsa.edu.ar"> National University of Salta</a></br></em></p>
