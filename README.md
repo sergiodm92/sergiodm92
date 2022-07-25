@@ -24,9 +24,10 @@ const sergio = {
 }
 }
 ```
-Technologies:
+<p style=color:red> Technologies: <p/>
 <div>
-  <img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" width="120">
+  
+  <img style="color:red" src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" width="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60"> 
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60">
   <img src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png" width="100">
@@ -45,7 +46,29 @@ Technologies:
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodm92&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://shivammalpani.netlify.app/"></a>
+
+<a href="https://www.linkedin.com/in/sergio-andres-david-maioli-196812176"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png" width="60"></a>
+
+<a href="https://www.instagram.com/i__disbalance/"></a>
+
+<a href="mailto:shivammalpani111@gmail.com"></a>
+
+</p>
+
+
+<hr>
+
+
 ⭐️ From [@sergiodm92](https://github.com/sergiodm92)
