@@ -57,7 +57,7 @@ const sergio = {
 
 <a href="https://shivammalpani.netlify.app/"></a>
 
-<a href="https://www.linkedin.com/in/sergio-andres-david-maioli-196812176" aling="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png" width="60"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%92%BBsergio-david-196812176/" aling="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/768px-LinkedIn_Logo.svg.png" width="60"></a>
 
 <a href="https://www.instagram.com/i__disbalance/"></a>
 
