@@ -14,8 +14,8 @@ A little more about me...
 ```javascript
 const sergio = {
   pronouns: "he" | "him",
-  code: [Javascript,C++, HTML, CSS],
-  tools: [React, Redux, Node, Express, Styled-Components, SASS, BootStrap, MaterialUI, Jest, Docker],
+  code: [Javascript, TypeScript, HTML, CSS, SQL,NO-SQL, C++],
+  tools: [React, Redux, Next.js, Node, Express, Firebase, Styled-Components, SASS, BootStrap, MaterialUI, Jest, Docker],
   developments: {  appFood: "It's an   aplication where you can search food recipes, sort by name or filter by diet, 
                              and you can create your recipe and save in the data base",
                    appPokemons: "It's an aplication where you can see the different pokemons with its detail, search, sort and create any pokemons",
