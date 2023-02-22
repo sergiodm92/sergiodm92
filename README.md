@@ -32,6 +32,10 @@ const sergio = {
 }
 ```
 <p style=color:red> Technologies: <p/>
+<div style=display:flex>
+<p>JavasCript</p>
+<p>JavasCript</p>
+</div>
 
   
 <!--   <img src="https://lh3.googleusercontent.com/pw/AL9nZEUnPwEHuGE5My1ci6N-49b83ef6FU548xK-z9ixsfWU-pzBwVn4mP3XZUKTNZfA0Ml_bB7NmFSXFSWl6rW7hkaDq8wdU5OLHvSynK4Iz0PylSKpOClctAPdhBwuYKpwQlpGA1TZMcU7poI_7mdxo_I_=w1329-h152-no?authuser=0"> -->
