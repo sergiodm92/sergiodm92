@@ -56,6 +56,7 @@ const sergio = {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
 <h3> 🤝🏻 Connect with Me </h3>
+<a href="http://sergiodm.online"><h3>Portfolio💼</h3></a>
 <br>
 <p align="center">
 
