@@ -33,8 +33,8 @@ const sergio = {
 ```
 <p style=color:red> Technologies: <p/>
 <div style=display:flex>
-<p>JavasCript</p>
-<p>JavasCript</p>
+<p>JavaScript-TypeScript-React-Redux-Next.js-Node.js-Express-SQL-NoSQL</p>
+
 </div>
 
   
