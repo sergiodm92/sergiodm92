@@ -3,7 +3,7 @@
  
 <div>
 <p><em>Civil Enginner at <a href="http://www.unsa.edu.ar"> National University of Salta</a></br></em></p>
-<p><em>Full Developer Web Stack ></br> 
+<p><em>Full Developer Web Stack </br> 
 </em></p>
 
 <div/>
