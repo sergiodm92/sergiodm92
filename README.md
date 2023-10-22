@@ -14,7 +14,7 @@ A little more about me...
 ```javascript
 const sergio = {
   pronouns: "he" | "him",
-  code: [Javascript, TypeScript, Phyton, HTML, CSS, SQL,NO-SQL, C++],
+  code: [Javascript, TypeScript, Python, HTML, CSS, SQL,NO-SQL, C++],
   tools: [React, Redux, Next.js, Node, Express, Firebase, MongoDB, PostgreSQL, FastAPI, Styled-Components, SASS, BootStrap, MaterialUI, Jest, Docker],
   developments: {  
                    gestionCarnes: "This is a complete application to manage a beef sales company, purchases, sales, stock, cash flow, among others.",
