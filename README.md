@@ -1,5 +1,4 @@
 <h2> Hi, I'm David Sergio! <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="60"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="140"
  
 <div>
 <p><em>Full Developer Web Stack </br> 
@@ -8,10 +7,6 @@
 <div/>
 
 
-A little more about me...  
-
-
-  
 ### Languages and Tools:
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
