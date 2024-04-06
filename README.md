@@ -11,30 +11,16 @@
 
 A little more about me...  
 
-```javascript
-const sergio = {
-  pronouns: "he" | "him",
-  code: [Javascript, TypeScript, Python, HTML, CSS, SQL,NO-SQL, C++],
-  front-end-tools: [React, Next.js, Redux, React-Query, BootStrap, MaterialUI, Css.modules, i18next],
-  back-end-tools: [Node.js, Express, Nest.js, Firebase, MongoDB, PostgreSQL, FastAPI],
-  developments: {  
-                   gestionCarnes: "This is a complete application to manage a beef sales company, purchases, sales, stock, cash flow, among others.",
-                   toDoList: "This is the classic to-do list app, where you can create, edit, mark as done, and delete a task.",
-                   weatherApp: "This is the classic application to see the weather of any city by entering its name.",
-                   appFood: "It's an   aplication where you can search food recipes, sort by name or filter by diet, 
-                             and you can create your recipe and save in the data base",
-                   appPokemons: "It's an aplication where you can see the different pokemons with its detail, search, sort and create any pokemons",
-                   serviExpress: "It's a e-commerce page, where you can search, require or post services for example Digital Marketing, Programming, 
-                                  Electricity, Plumbing and so on. You can pay the service and chat with the seller about that your service requirements, 
-                                  if you have a problem you can chat with Customer Support, among other functions."
-                   porfolio: "It's a customer porfolio where you find my CV, skills, projects and contact."      
-                }
-}
-}
-```
+
   
 <!--   <img src="https://lh3.googleusercontent.com/pw/AL9nZEUnPwEHuGE5My1ci6N-49b83ef6FU548xK-z9ixsfWU-pzBwVn4mP3XZUKTNZfA0Ml_bB7NmFSXFSWl6rW7hkaDq8wdU5OLHvSynK4Iz0PylSKpOClctAPdhBwuYKpwQlpGA1TZMcU7poI_7mdxo_I_=w1329-h152-no?authuser=0"> -->
+
    
+### Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
   
 
