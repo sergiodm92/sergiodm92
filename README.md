@@ -2,7 +2,6 @@
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" width="140"
  
 <div>
-<p><em>Civil Enginner at <a href="http://www.unsa.edu.ar"> National University of Salta</a></br></em></p>
 <p><em>Full Developer Web Stack </br> 
 </em></p>
 
@@ -13,13 +12,13 @@ A little more about me...
 
 
   
-<!--   <img src="https://lh3.googleusercontent.com/pw/AL9nZEUnPwEHuGE5My1ci6N-49b83ef6FU548xK-z9ixsfWU-pzBwVn4mP3XZUKTNZfA0Ml_bB7NmFSXFSWl6rW7hkaDq8wdU5OLHvSynK4Iz0PylSKpOClctAPdhBwuYKpwQlpGA1TZMcU7poI_7mdxo_I_=w1329-h152-no?authuser=0"> -->
-
-   
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
   
