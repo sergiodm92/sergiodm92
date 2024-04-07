@@ -38,7 +38,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
 <h3> 🤝🏻 Connect with Me </h3>
-<div display="flex">
+<div style={display:"flex"}">
  <a href="https://sergiodmfullstack.vercel.app/">💼</a>
  <br>
  <p align="center">
