@@ -1,9 +1,10 @@
 <h2> Hi, I'm David Sergio! 
  </br> 
-<div>
-<p><em>Full Stack Developer </em></p>
 
-<div/>
+
+ 
+###Full Stack Developer 
+
 
 
 ### Languages and Tools:
