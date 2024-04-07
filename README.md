@@ -1,7 +1,7 @@
 <h2> Hi, I'm David Sergio! 
- 
+ </br> 
 <div>
-<p><em>Full Developer Web Stack </br> 
+<p><em>Full Stack Developer </br> 
 </em></p>
 
 <div/>
