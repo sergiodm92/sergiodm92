@@ -1,4 +1,4 @@
-<h2> Hi, I'm David Sergio! <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="60"></h2>
+<h2> Hi, I'm David Sergio! 
  
 <div>
 <p><em>Full Developer Web Stack </br> 
