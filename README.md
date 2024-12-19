@@ -20,7 +20,7 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"></code>
 <code><img height="40" src="https://zustand-demo.pmnd.rs/favicon.ico"></code>
 <code><img height="40" src="https://www.postgresql.org/favicon.ico"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></code>
+<code><img height="40" src="https://www.mongodb.com/assets/images/global/favicon.ico"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"></code>
 <code><img height="40" src="https://tailwindcss.com/favicons/favicon.ico"></code>
