@@ -40,8 +40,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
 ------------------------------------------
 <h3> 🤝🏻 Connect with Me </h3>
-<div style="display:flex; align-items:center;">
-<a href="https://sergiodmfullstack.vercel.app/" style="font-size: 20px;">💼</a>
+<div style="display: flex; align-items: center;">
+ <a href="https://sergiodmfullstack.vercel.app/" style="font-size: 40px;">💼</a>
 <a href="https://www.linkedin.com/in/sergio-david-full-stack/" aling="center"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="50"></a>
 <a href="mailto:crgiodm@gmail.com" ><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30"></a>
 </div>
