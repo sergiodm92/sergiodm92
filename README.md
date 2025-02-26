@@ -35,7 +35,6 @@
 ---------------
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodm92&layout=compact&theme=onedark&langs_count=8)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiodm92&theme=onedark&show_icons=true)
