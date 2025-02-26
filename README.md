@@ -27,6 +27,8 @@
 <code><img height="40" src="https://tailwindcss.com/favicons/favicon.ico"></code>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodm92&layout=compact&theme=onedark&langs_count=8
+
 
   
 
