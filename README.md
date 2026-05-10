@@ -17,8 +17,6 @@
 <code><img height="40" src="https://nextjs.org/favicon.ico"></code>
 <code><img height="40" src="https://docs.nestjs.com/assets/logo-small-gradient.svg"></code>
 <code><img height="40" src="https://spring.io/img/projects/spring-boot.svg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"></code>
-<code><img height="40" src="https://zustand-demo.pmnd.rs/favicon.ico"></code>
 
 
 
