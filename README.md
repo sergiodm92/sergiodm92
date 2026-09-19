@@ -66,7 +66,7 @@ Puello Herrera & Alies	Law firm site plus a private admin dashboard, with Linked
 Don Alberto Gestión	Livestock purchase, slaughter and meat sales management: balances, stock and monthly P&L.	React Redux Node.js Express Firebase
 DR Full Code	Landing page for a software company specialized in custom management systems.	React Next.js
 $ git log --graph
-<div align="center"> <img src="https://ghchart.rshah.org/34D399/sergiodm92" alt="Contribution graph" width="100%" />
+
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=sergiodm92&hide_border=true&background=0A0E13&stroke=30363D&ring=34D399&fire=34D399&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=34D399&sideLabels=8B98A5&dates=5C6873" alt="Contribution streak" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergiodm92&theme=github_dark" alt="Languages by repo" /> </div>
